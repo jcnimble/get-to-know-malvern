@@ -4,7 +4,7 @@
 I am unable to complete this assignment. The only criteria I am able to complete are...
 - scraping from a website
 - using Handlebars
-- deploying to Heroko? (It is deployed https://malvern.herokuapp.com/  I can't tell if the database is connected properly)
+- deploying to Heroko (It is deployed https://secret-headland-99747.herokuapp.com/ )
 
 I was not able to complete the functionality of making notes, saving items and deleting items. I really do not understand how to do this. I started this project by copying Unit 18 Mongoose/Activity 20-Scraping-With-Mongoose. So I did have the note functionality. But, I really didn't do anything except swap out the scrape function -- this didn't really seem to be the point of the homework. So, I lost most of the note functionality when I began working with Handlebars.
 
